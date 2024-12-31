@@ -1,0 +1,2 @@
+# Intelligent-Underground-Waste-Transportation-and-Resource-Utilization-System
+This project proposes an intelligent system for underground garbage transportation using conveyor belts and sensors, managed by a central control room to improve waste management and generate national income.
